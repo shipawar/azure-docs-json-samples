@@ -6,7 +6,7 @@
       "type": "string",
       "defaultValue": "shivamstg",
       "metadata": {
-        "description": "Specify the storage account name
+        "description": "Specify the storage account name"
       }
     },
     "location": {
