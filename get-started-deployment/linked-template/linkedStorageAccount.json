@@ -11,7 +11,7 @@
     },
     "location": {
       "type": "string",
-      "defaultValue": "East Asia ",
+      "defaultValue": "East Asia",
       "metadata": {
         "description": "Specify a location for the resources."
       }
